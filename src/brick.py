@@ -1,3 +1,8 @@
+"""
+@author: Kieu Nguyen
+@date  : 2022-06-24
+@desc  : https://codeforces.com/problemset/problem/1/A
+"""
 m, n, a = list(map(int, input().split()))
 
 m1 = int()
